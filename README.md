@@ -4,6 +4,7 @@ SGD-ICPを適用したSLAMです。
 地図データがそのまま蓄積していく仕様になっています。
 
 # 起動コマンド
+順番に起動してください。ターミナルを分けて
 ```
 roslaunch turtlebot3_gazebo turtlebot3_world.launch
 ```
