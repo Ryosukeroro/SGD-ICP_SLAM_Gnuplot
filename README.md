@@ -23,3 +23,6 @@ rosrun research LiDAR_node_SGD
 rviz
 ```
 
+## 実行例
+<img width="1920" height="1080" alt="Screenshot from 2025-11-17 13-46-12" src="https://github.com/user-attachments/assets/e9ceca4c-1499-4b65-b1c0-c827e9e26542" />
+
