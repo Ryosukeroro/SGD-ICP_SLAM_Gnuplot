@@ -17,3 +17,4 @@ namespace SlamParams {
     // 対応点とみなす最大距離の閾値 (の2乗)
     // 例: 0.4m以内を有効とする -> 0.16
     constexpr double MAX_CORRESPONDENCE_DIST_SQ = 0.16;
+
